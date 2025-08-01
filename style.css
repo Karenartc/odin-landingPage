@@ -158,3 +158,23 @@
     padding: 8px;
     font-size: 15px;
 }
+
+.inspiration-text {
+    background-color: #FFCCBC;
+    padding: 80px 150px;
+}
+
+.inspiration-text p {
+    color: #161644;
+    font-style: italic;
+    font-size: 22px;
+    text-align: left;
+    font-family: Fredoka;
+}
+
+.inspiration-text h6 {
+    color: #161644;
+    text-align: right;
+    padding: 10px 40px 0px 0px;
+    font-size: 17px;
+}
