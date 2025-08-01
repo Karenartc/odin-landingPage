@@ -23,6 +23,8 @@
 }
 
 .header .logo{
+    display: flex;
+    flex-shrink: 0;
     color: #ff6160;
     font-family: "Fredoka";
     font-size: 12px;
