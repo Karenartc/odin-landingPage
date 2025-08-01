@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Fredoka", "Nunito", sans-serif;
+    font-family: Fredoka, Nunito, sans-serif;
 }
 
 .header {
@@ -17,7 +17,7 @@
     display: flex;
     align-items: center;
     color: #ff6160;
-    font-family: "Fredoka";
+    font-family: Fredoka;
     font-size: 12px;
     gap: 10px;
 }
@@ -26,7 +26,7 @@
     display: flex;
     flex-shrink: 0;
     color: #ff6160;
-    font-family: "Fredoka";
+    font-family: Nunito;
     font-size: 12px;
 }
 
@@ -45,6 +45,7 @@
 
 .header .links a{
     text-decoration: none;
+    font-family: Fredoka;
     color: #D3E3FC;
     margin-left: 25px;
     font-size: 15px;
@@ -73,7 +74,7 @@
 }
 
 .hero .text p {
-    font-family: "Nunito";
+    font-family: Fredoka;
     font-size: 15px;
     color: #D3E3FC;
 }
