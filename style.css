@@ -221,3 +221,11 @@
     font-weight: bold;
     font-size: 14px;
 }
+
+.footer {
+    background-color: #161644;
+    text-align: center;
+    color: #D3E3FC;
+    padding: 30px;
+    font-family: Fredoka;
+}
