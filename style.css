@@ -160,12 +160,12 @@
 }
 
 .inspiration-text {
-    background-color: #FFCCBC;
+    background-color: #161644;
     padding: 80px 150px;
 }
 
 .inspiration-text p {
-    color: #161644;
+    color: #ff6160;
     font-style: italic;
     font-size: 22px;
     text-align: left;
@@ -173,7 +173,7 @@
 }
 
 .inspiration-text h6 {
-    color: #161644;
+    color: #ff6160;
     text-align: right;
     padding: 10px 40px 0px 0px;
     font-size: 17px;
