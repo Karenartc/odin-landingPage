@@ -178,3 +178,46 @@
     padding: 10px 40px 0px 0px;
     font-size: 17px;
 }
+
+.call-action {
+    padding: 80px 150px;
+}
+
+.call-action .card {
+    background-color: #FFCCBC;
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 100px;
+    border-radius: 12px;
+}
+
+.call-action .card .text {
+    color: #161644;
+    max-width: 500px;
+}
+
+.call-action .card .text h4 {
+    font-size: 18px;
+}
+
+.call-action .card .text picture {
+    font-size: 15px;
+    font-family: Fredoka;
+}
+
+.call-action .card .button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.call-action .card button {
+    width: 180px;
+    height: 40px;
+    background-color: #FFCCBC;
+    color: #161644;
+    border-style:solid;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
