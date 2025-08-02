@@ -1,25 +1,38 @@
-# odin-landingPage - Cat Adoption
-This is my end project from the CSS Foundations module of The Odin Project.
+# Odin Landing Page - Cat Adoption 🐾
 
-I took creative freedom with the colors, fonts, and theme of the landing page. The website promotes cat adoption.
+A **static landing page** for cat adoption, created as the final project of the CSS Foundations module from [The Odin Project](https://www.theodinproject.com/).
 
-Al images are from free resources (pexels), and here is the rightful credit for each photo:
+🔗 **Live Demo:** [View here](https://karenartc.github.io/odin-landingPage/)
 
-1. Hero photo (happy girl with a white dress carrying a cat)
-    Photo by Ánh Đặng: https://www.pexels.com/photo/smiling-girl-playing-with-cat-16392187/
+---
 
-2. Playful companion (black cat playing with a toy on a bed) 
-    Photo by cottonbro studio: https://www.pexels.com/photo/black-cat-on-the-bed-6864016/
+## 📸 Preview
 
-3. Gentle soul (orange cat sleeping on a red bed)
-    Photo by Dương Nhân: https://www.pexels.com/photo/orange-tabby-cat-on-bed-2817412/
+![Landing Page Preview](./images/webPreview.png)
 
-4. Loyal friend (orange cat being pet by a girl in a pink striped shirt) 
-    Photo by Dmitriy Ganin: https://www.pexels.com/photo/crop-anonymous-lady-sitting-on-floor-and-stroking-curious-cat-near-window-7716390/
+---
 
-5. make difference (parents giving a little girl a cat from a box in a living room) 
-    Photo by MART  PRODUCTION: https://www.pexels.com/photo/parents-giving-their-daughter-a-kitten-8434656/
+## 📝 Notes
 
-6. Logo design from a canva template by https://www.canva.com/p/virinadesign/
+This page was built based on the **layout provided by The Odin Project** for educational purposes.  
+I applied **custom colors, fonts, and theme adjustments**, but the original layout design is not mine.
 
+---
 
+## 🐱 Image & Logo Credits
+
+All images are from **free resources (Pexels)**:
+
+- **Hero photo**: [Ánh Đặng](https://www.pexels.com/photo/smiling-girl-playing-with-cat-16392187/)  
+- **Playful companion**: [cottonbro studio](https://www.pexels.com/photo/black-cat-on-the-bed-6864016/)  
+- **Gentle soul**: [Dương Nhân](https://www.pexels.com/photo/orange-tabby-cat-on-bed-2817412/)  
+- **Loyal friend**: [Dmitriy Ganin](https://www.pexels.com/photo/crop-anonymous-lady-sitting-on-floor-and-stroking-curious-cat-near-window-7716390/)  
+- **Make a difference**: [MART PRODUCTION](https://www.pexels.com/photo/parents-giving-their-daughter-a-kitten-8434656/)  
+- **Logo**: Canva template by [Virinadesign](https://www.canva.com/p/virinadesign/)
+
+---
+
+## 📄 License
+
+This project is for **educational purposes only**.  
+All image rights belong to their respective authors.
